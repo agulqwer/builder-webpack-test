@@ -6,9 +6,9 @@
   "scripts": {
     "test": "mocha",
     "istanbul": "nyc mocha",
-    "dev": "webpack --config webpack.dev.js",
-    "build": "webpack --config webpack.build.js",
-    "ssr": "webpack --config webpack.ssr.js",
+    "dev": "webpack --config ./lib/webpack.dev.js",
+    "build": "webpack --config ./lib/webpack.build.js",
+    "ssr": "webpack --config ./lib/webpack.ssr.js",
     "eslint": "eslint ./lib --fix"
   },
   "keywords": [],
