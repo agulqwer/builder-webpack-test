@@ -1,0 +1,11 @@
+import { helloword } from "./helloword.js";
+import './index.less';
+import  logo  from './images/1.jpg';
+import largeAddNumber from "large-add-number";
+import $ from 'jquery';
+document.write(helloword());
+// var img = document.getElementById("imgs");
+// img.setAttribute("src", logo);
+$("#imgs").attr('src', logo);
+const a = largeAddNumber("22","11");
+console.log(a);

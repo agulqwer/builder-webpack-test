@@ -1,0 +1,672 @@
+{
+    "code": 0,
+    "data": {
+        "infos": [
+            {
+                "id": 100048401,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585240291,
+                "is_dailylesson": false,
+                "title": "检索技术核心20讲",
+                "subtitle": "从搜索引擎到推荐引擎，带你吃透检索",
+                "ctime": 1584607941,
+                "unit": "22讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/03/d1/0338b6a9e2a135c8806c24dae61a27d1.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/e3/95/e3b314856771b91829bfa2daa999b495.jpg"
+                },
+                "author": {
+                    "name": "陈东",
+                    "intro": "奇虎360商业产品事业部资深总监",
+                    "avatar": "https://static001.geekbang.org/resource/image/03/d1/0338b6a9e2a135c8806c24dae61a27d1.jpg"
+                },
+                "price": {
+                    "market": 6800,
+                    "sale": 5500,
+                    "sale_type": 2
+                },
+                "path": {
+                    "desc": "你将获得：5类数据结构的原理和应用；15+行业真实应用案例详解；4大热门行业检索架构和设计；从基础到实践，构建检索知识体系。",
+                    "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>5 类数据结构的原理和应用；</li>\n<li>15+ 行业真实应用案例详解；</li>\n<li>4 大热门行业检索架构和设计；</li>\n<li>从基础到实践，构建检索知识体系。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 22,
+                    "count_req": 22,
+                    "count_pub": 5
+                },
+                "is_onborad": true,
+                "is_sale": true,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "检索技术",
+                        "检索引擎",
+                        "陈东"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 1249,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100048201,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585238407,
+                "is_dailylesson": false,
+                "title": "SRE实战手册",
+                "subtitle": "从0到1带你搞定系统稳定性",
+                "ctime": 1584372188,
+                "unit": "12讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/00/16/00a7fa17c0502dfa5cd57409f527a316.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/72/a4/729b833d69593e438174232585b2f7a4.jpg"
+                },
+                "author": {
+                    "name": "赵成",
+                    "intro": "蘑菇街技术总监",
+                    "avatar": "https://static001.geekbang.org/resource/image/00/16/00a7fa17c0502dfa5cd57409f527a316.jpg"
+                },
+                "price": {
+                    "market": 3900,
+                    "sale": 1990,
+                    "sale_type": 2
+                },
+                "path": {
+                    "desc": "你将获得：理解SRE的正确姿势；10+SRE必学必会知识点；可落地的故障应急处理机制；2种典型SRE组织架构案例分享。",
+                    "desc_html": "<h2>你将获得：</h2>\n<ul>\n<li>理解 SRE 的正确姿势；</li>\n<li>10+ SRE 必学必会知识点；</li>\n<li>可落地的故障应急处理机制；</li>\n<li>2 种典型 SRE 组织架构案例分享。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 12,
+                    "count_req": 12,
+                    "count_pub": 6
+                },
+                "is_onborad": true,
+                "is_sale": true,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "SRE",
+                        "运维",
+                        "稳定性"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 2976,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100048001,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585471762,
+                "is_dailylesson": false,
+                "title": "图解 Google V8",
+                "subtitle": "一门课搞懂 JavaScript 执行逻辑",
+                "ctime": 1584008675,
+                "unit": "24讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/1f/67/1f8c5db94c2a525ca63e3828560ca367.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/1f/73/1ff8c19221993ea3232f818fa97c9273.jpg"
+                },
+                "author": {
+                    "name": "李兵",
+                    "intro": "前盛大创新院高级研究员",
+                    "avatar": "https://static001.geekbang.org/resource/image/1f/67/1f8c5db94c2a525ca63e3828560ca367.jpg"
+                },
+                "price": {
+                    "market": 6800,
+                    "sale": 6800,
+                    "sale_type": 1
+                },
+                "path": {
+                    "desc": "你将获得:V8执行JavaScript代码的完整流程；JavaScript的核心特性；事件循环和垃圾回收的工作机制；系统优化JavaScript执行效率的方法。",
+                    "desc_html": "<p><strong>你将获得</strong>:</p>\n<ul>\n<li>V8 执行 JavaScript 代码的完整流程；</li>\n<li>JavaScript 的核心特性；</li>\n<li>事件循环和垃圾回收的工作机制；</li>\n<li>系统优化 JavaScript 执行效率的方法。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 24,
+                    "count_req": 24,
+                    "count_pub": 7
+                },
+                "is_onborad": true,
+                "is_sale": false,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "虚拟机",
+                        "JavaScript",
+                        "Node.js",
+                        "前端",
+                        "Google"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 2528,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100047701,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585324806,
+                "is_dailylesson": false,
+                "title": "Java 业务开发常见错误 100 例",
+                "subtitle": "全面避坑 + 最佳实践=健壮代码",
+                "ctime": 1583312814,
+                "unit": "37讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/da/da/da765d454b0e5172a07d8a0c085b66da.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/8c/d1/8c80af46b44a293860bd2aa5351d24d1.jpg"
+                },
+                "author": {
+                    "name": "朱晔",
+                    "intro": "贝壳金服资深架构师",
+                    "avatar": "https://static001.geekbang.org/resource/image/da/da/da765d454b0e5172a07d8a0c085b66da.jpg"
+                },
+                "price": {
+                    "market": 9900,
+                    "sale": 9900,
+                    "sale_type": 1
+                },
+                "path": {
+                    "desc": "你将获得：130个代码坑点及其解决方案；100个场景化案例解读；25次源码深度解析；使用10个工具定位问题根因。",
+                    "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>130 个代码坑点及其解决方案；</li>\n<li>100 个场景化案例解读；</li>\n<li>25 次源码深度解析；</li>\n<li>使用 10 个工具定位问题根因。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 37,
+                    "count_req": 32,
+                    "count_pub": 12
+                },
+                "is_onborad": true,
+                "is_sale": false,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "Java",
+                        "业务开发",
+                        "常见错误",
+                        "避坑"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 4348,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100046901,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585238415,
+                "is_dailylesson": false,
+                "title": "深入浅出云计算",
+                "subtitle": "给开发者和架构师的云计算指南",
+                "ctime": 1582872364,
+                "unit": "18讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/e5/d5/e5702fcc2b6f347fe0cc7b361106bbd5.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/00/2d/007cff59557efaed1eafda6b6178392d.jpg"
+                },
+                "author": {
+                    "name": "何恺铎",
+                    "intro": "前国双技术总经理",
+                    "avatar": "https://static001.geekbang.org/resource/image/e5/d5/e5702fcc2b6f347fe0cc7b361106bbd5.jpg"
+                },
+                "price": {
+                    "market": 6800,
+                    "sale": 6800,
+                    "sale_type": 1
+                },
+                "path": {
+                    "desc": "你将获得：全面系统的云计算核心知识体系；10年资深专家的云计算实操经验；可落地的云端架构思维与最佳实践；多角度的云上成本控制技巧。",
+                    "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>全面系统的云计算核心知识体系；</li>\n<li>10年资深专家的云计算实操经验；</li>\n<li>可落地的云端架构思维与最佳实践；</li>\n<li>多角度的云上成本控制技巧。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 18,
+                    "count_req": 18,
+                    "count_pub": 12
+                },
+                "is_onborad": true,
+                "is_sale": false,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "云计算",
+                        "运维",
+                        "测试"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 1478,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100046801,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585324807,
+                "is_dailylesson": false,
+                "title": "后端存储实战课",
+                "subtitle": "类电商平台存储技术应用指南",
+                "ctime": 1582621875,
+                "unit": "26讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/05/a3/05e8d43104f3b14dfb0a8d18624d10a3.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/8c/e0/8ce10940de1a13598cc22aab5aba8ee0.jpg"
+                },
+                "author": {
+                    "name": "李玥",
+                    "intro": "京东零售计算存储平台部资深架构师",
+                    "avatar": "https://static001.geekbang.org/resource/image/05/a3/05e8d43104f3b14dfb0a8d18624d10a3.jpg"
+                },
+                "price": {
+                    "market": 9900,
+                    "sale": 7900,
+                    "sale_type": 3
+                },
+                "path": {
+                    "desc": "你将获得：电商存储中的24个高频问题解决方案；不同业务场景下的存储选型策略；分布式存储领域的前沿技术；存储技术核心原理的深入剖析。",
+                    "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>电商存储中的24个高频问题解决方案；</li>\n<li>不同业务场景下的存储选型策略；</li>\n<li>分布式存储领域的前沿技术；</li>\n<li>存储技术核心原理的深入剖析。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 26,
+                    "count_req": 26,
+                    "count_pub": 16
+                },
+                "is_onborad": true,
+                "is_sale": true,
+                "is_groupbuy": true,
+                "seo": {
+                    "keywords": [
+                        "存储",
+                        "电商",
+                        "数据",
+                        "MySQL",
+                        "Redis",
+                        "ElasticSearch",
+                        "MongoDB"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 3319,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100046401,
+                "type": "c3",
+                "is_core": true,
+                "is_video": true,
+                "is_audio": false,
+                "is_finish": false,
+                "utime": 1585227126,
+                "is_dailylesson": false,
+                "title": "NLP实战高手课",
+                "subtitle": "全方位提升你的NLP实战技能",
+                "ctime": 1582445824,
+                "unit": "120讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/cc/2d/cc0da29c96daad5516959a683e61352d.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/0a/a3/0a4662f3f584e5a21c26359ae02616a3.jpg"
+                },
+                "author": {
+                    "name": "王然",
+                    "intro": "众微科技AI Lab技术负责人、阿姆斯特丹大学数学和计量经济学双硕士",
+                    "avatar": "https://static001.geekbang.org/resource/image/cc/2d/cc0da29c96daad5516959a683e61352d.jpg"
+                },
+                "price": {
+                    "market": 12900,
+                    "sale": 12900,
+                    "sale_type": 1
+                },
+                "path": {
+                    "desc": "你将获得：高效挖掘表格化数据的技巧；4种经典NLP任务的解决方案；NLP竞赛和实战中的黑科技；从开发到部署的一整套落地经验。",
+                    "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>高效挖掘表格化数据的技巧；</li>\n<li>4 种经典 NLP 任务的解决方案；</li>\n<li>NLP 竞赛和实战中的黑科技；</li>\n<li>从开发到部署的一整套落地经验。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 120,
+                    "count_req": 120,
+                    "count_pub": 37
+                },
+                "is_onborad": true,
+                "is_sale": false,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": []
+                },
+                "extra": {
+                    "sub": {
+                        "count": 1840,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100046301,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585242215,
+                "is_dailylesson": false,
+                "title": "架构实战案例解析",
+                "subtitle": "从案例出发，带你吃透架构",
+                "ctime": 1582075413,
+                "unit": "22讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/37/71/37ff3de3cb4ca9b2b024486bdbef6171.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/44/35/44e4d2573607c42aa76590cd4c9c2435.jpg"
+                },
+                "author": {
+                    "name": "王庆友",
+                    "intro": "前1号店首席架构师",
+                    "avatar": "https://static001.geekbang.org/resource/image/37/71/37ff3de3cb4ca9b2b024486bdbef6171.jpg"
+                },
+                "price": {
+                    "market": 6800,
+                    "sale": 6800,
+                    "sale_type": 1
+                },
+                "path": {
+                    "desc": "你将获得：首席架构师的大厂项目实战经验；系统剖析架构设计五大难点；12个大型互联网公司架构案例；中级开发必备架构实战手册。",
+                    "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>首席架构师的大厂项目实战经验；</li>\n<li>系统剖析架构设计五大难点；</li>\n<li>12个大型互联网公司架构案例；</li>\n<li>中级开发必备架构实战手册。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 22,
+                    "count_req": 22,
+                    "count_pub": 17
+                },
+                "is_onborad": true,
+                "is_sale": false,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "架构案例",
+                        "后端架构"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 2081,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100046201,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585238406,
+                "is_dailylesson": false,
+                "title": "RPC实战与核心原理",
+                "subtitle": "高效解决分布式系统的通信难题",
+                "ctime": 1581647443,
+                "unit": "28讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/fc/17/fce8a5d8969dd1e5a19ed8eae5463517.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/c2/2a/c23beb1998b9011f58a065df312f842a.jpg"
+                },
+                "author": {
+                    "name": "何小锋",
+                    "intro": "京东技术架构部首席架构师",
+                    "avatar": "https://static001.geekbang.org/resource/image/fc/17/fce8a5d8969dd1e5a19ed8eae5463517.jpg"
+                },
+                "price": {
+                    "market": 9900,
+                    "sale": 9900,
+                    "sale_type": 1
+                },
+                "path": {
+                    "desc": "你将获得：熟练掌握RPC核心原理及架构设计要点；解决20+基于真实场景的高频问题；深入剖析RPC框架的系统应用；手把手设计一个灵活的RPC框架。",
+                    "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟练掌握RPC核心原理及架构设计要点；</li>\n<li>解决20+基于真实场景的高频问题；</li>\n<li>深入剖析RPC框架的系统应用；</li>\n<li>手把手设计一个灵活的RPC框架。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 28,
+                    "count_req": 26,
+                    "count_pub": 18
+                },
+                "is_onborad": true,
+                "is_sale": false,
+                "is_groupbuy": false,
+                "seo": {
+                    "keywords": [
+                        "RPC",
+                        "后端架构"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 3919,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            },
+            {
+                "id": 100046101,
+                "type": "c1",
+                "is_core": true,
+                "is_video": false,
+                "is_audio": true,
+                "is_finish": false,
+                "utime": 1585414833,
+                "is_dailylesson": false,
+                "title": "分布式协议与算法实战",
+                "subtitle": "攻克分布式系统设计的关键难题",
+                "ctime": 1580964027,
+                "unit": "22讲",
+                "cover": {
+                    "square": "https://static001.geekbang.org/resource/image/67/cf/6783d27525870d797af832947dcf50cf.jpg",
+                    "rectangle": "https://static001.geekbang.org/resource/image/ef/c0/efc19bccadbe22182e789a2742aceac0.jpg"
+                },
+                "author": {
+                    "name": "韩健",
+                    "intro": "腾讯资深工程师",
+                    "avatar": "https://static001.geekbang.org/resource/image/67/cf/6783d27525870d797af832947dcf50cf.jpg"
+                },
+                "price": {
+                    "market": 6800,
+                    "sale": 5500,
+                    "sale_type": 3
+                },
+                "path": {
+                    "desc": "你将获得：可落地的4大分布式基础理论；8个最常用的分布式协议和算法；3大实战案例手把手教学；以实战为中心的分布式内容体系。",
+                    "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>可落地的 4 大分布式基础理论；</li>\n<li>8 个最常用的分布式协议和算法；</li>\n<li>3 大实战案例手把手教学；</li>\n<li>以实战为中心的分布式内容体系。</li>\n</ul>\n"
+                },
+                "article": {
+                    "id": 0,
+                    "count": 22,
+                    "count_req": 22,
+                    "count_pub": 21
+                },
+                "is_onborad": true,
+                "is_sale": true,
+                "is_groupbuy": true,
+                "seo": {
+                    "keywords": [
+                        "分布式",
+                        "分布式算法"
+                    ]
+                },
+                "extra": {
+                    "sub": {
+                        "count": 4744,
+                        "had_done": false
+                    },
+                    "fav": {
+                        "count": 0,
+                        "had_done": false
+                    },
+                    "rate": {
+                        "article_count": 0,
+                        "article_count_req": 0,
+                        "is_finished": false,
+                        "last_article_id": 0,
+                        "rate_percent": 0,
+                        "video_seconds": 0
+                    }
+                }
+            }
+        ]
+    },
+    "error": {},
+    "extra": {
+        "cost": 0.01645319,
+        "request-id": "7b2471595bdcfe496c55556756230d11@2@time"
+    }
+}
