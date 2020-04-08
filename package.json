@@ -7,7 +7,7 @@
     "test": "mocha",
     "istanbul": "nyc mocha",
     "dev": "webpack --config ./lib/webpack.dev.js",
-    "build": "webpack --config ./lib/webpack.build.js",
+    "build": "webpack --config ./lib/webpack.prod.js",
     "ssr": "webpack --config ./lib/webpack.ssr.js",
     "eslint": "eslint ./lib --fix"
   },
