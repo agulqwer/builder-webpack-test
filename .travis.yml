@@ -13,6 +13,7 @@ install:
   - npm install 
   - cd ./test/smoke/template 
   - npm install 
+  - cd ../../../
 
 scripts:
   - npm run build
